@@ -6,7 +6,7 @@ namespace Итоговая_работа._IT_специалист
     {
         static void Main(string[] args)
         {
-            string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
+            string[] array1 = new string[5] {"1234", "55", "pleasure", "world", "go"};
             string[] array2 = new string[array1.Length];
             void SecondArrayWithIF(string[] array1, string[] array2)
             {
